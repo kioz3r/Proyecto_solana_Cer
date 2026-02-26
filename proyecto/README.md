@@ -1,5 +1,5 @@
 # Primeros pasos en Solana
-![Banner](./images/SolanaBanner.jpg)
+![Banner](./images/logo-simple.png)
 
 
 
